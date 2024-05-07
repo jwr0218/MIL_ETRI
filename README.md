@@ -9,6 +9,14 @@
 ```shell
 pip install -r requirements.txt
 ```
+
+## 실행 순서 :
+  1. Preprocessing/Time_series_to_df.ipynb 를 통해 데이터를 전처리한다. 
+  2. Model_training_valid.py 를 통해 학습한다.
+  3. Test.py 를 통해 예측한다.
+  4. Visualization/modal_importance_anlysis.ipynb 를 통해 시각화하여 결과를 확인한다. 
+
+
 ## 구성
   ### human_lifelog_mil_pytorch
   - 본 연구에서 사용한 모달 주요도를 추출하는 Multiple Instance Learning model의 structure과 그룹별 라이프로그 예측 모델 structure, 그 외에 실험에 필요한 기본적인 코드들이 있는 디렉토리입니다.
