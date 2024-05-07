@@ -64,3 +64,9 @@ pip install -r requirements.txt
 │  ├── Modal_importance_analysis.ipynb (해당 파일에서 추출한 시각화 자료들을 추출하였습니다.)
 ```
 
+### 유저별 모달 중요도 Attention 값 2차원 투영
+<p align="center"><img src = "https://github.com/jwr0218/MIL_ETRI/assets/54136688/9627b2f7-4ec3-417b-9400-862eb1d91395"width="750"/></p>
+
+### 군집 별 모달 중요도 시각화 
+<p align="center"><img src = "https://github.com/jwr0218/MIL_ETRI/assets/54136688/02884f67-8299-4b10-b5f2-664859966053"width="750"/></p>
+
