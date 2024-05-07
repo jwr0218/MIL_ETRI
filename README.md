@@ -10,7 +10,7 @@
 pip install -r requirements.txt
 ```
 
-## 실행 순서 :
+## 실행 순서
   1. Preprocessing/Time_series_to_df.ipynb 를 통해 데이터를 전처리한다. 
   2. Model_training_valid.py 를 통해 학습한다.
   3. Test.py 를 통해 예측한다.
